@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently live in Toronto, Just finish [SumAccounting](https://ninth-glider-325616.web.app)
+- 🔭 I’m currently live in Toronto, Currently working on [St. Michael's College School](https://stmichaelscollegeschool.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
