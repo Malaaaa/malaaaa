@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with think longer about the Tech
 - ⚡ Fun fact: I am a super chill man, we can have a lot fun.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malaaaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malaaaa&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
